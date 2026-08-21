@@ -7,3 +7,7 @@
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+
+NOTE!
+Current RLS policies allows users only to view and create smoothies. Update and delete prevented in backend by RLS policy.
